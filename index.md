@@ -1,3 +1,64 @@
 ---
 title: Welcome to my blog!
 ---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles/style Flex.css">
+    <title>Web Host </title>
+</head>
+<body>
+    <h1> Github WebHost Page of Skills-GitHub pages</h1>
+    <h3> Work in Progress.<br> (modification target: Standarisizing and Links)</h3>
+    <section>
+        <a class="VPLink link VPNavBarMenuLink active" href="2index Docs.html" tabindex="0" data-v-e1b592f5="" data-v-db173cc8=""><!--[--><span data-v-db173cc8="">Docs</span><!--]--></a>
+
+
+            <!--<div class="container Page1">Page</div> -->  
+               <div class="item item-1">1
+                <p>some text to put in div 1</p>
+                <p>This is my first of 3 trys to be engaged in   the world of web-design. I shall try in this excersise to create an Github website
+                with the use of the basic knowledge i have learned so far.
+                </p>
+                    <img src="./images/1_pBAUxjnt4AzvsIiv5JuFx.png" alt="Image van div 1" class="image1"/>
+                </p>
+            </div>
+            <div class="item item-2">2
+                <p>This is my 2 of 3 trys
+                to be engaged in the world of web design. I shall try  in this excersise to create an Github website
+                with the use of the basic knowledge i have learned so far.
+                </p>
+
+                    <img src="./images/2-IoGUHjzaq4iiH-_wkli9O.png" alt="Image van div 2" class="image2"/>
+
+            </div>
+            <div class="item item-3">3
+                <p1>This is my 3 of 3 try
+                to be engaged in the world of web design. I shall try  in this excersise to create an Github website
+                with the use of the basic knowledge i have learned so far.
+                </p1>
+
+                    <img src="./images/3_ofWNkhyz8vrVaOiDHJHUv.png" alt="Image van div 3" class="image3"/>
+            </div>
+            <div class="item item-4">4
+                <p1>This is my 4 try
+                to be engaged in the world of web design. I shall try  in this excersise to create another div container
+                with the use of the basic knowledge i have learned so far.
+                </p1>
+
+                    <img src="./images/4_a_pusycat_in_boots-1744131979255.png" alt="Image van div 4" class="image4"/>
+            </div>        </div>
+    </section>
+note 1<br>subjects are sections , divisions,<br> 
+note 2<br>  container = div Item <br>
+</body>
+</html>
+
+
+---
+title: Welcome to my blog!
+---
